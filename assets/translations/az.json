@@ -1,0 +1,236 @@
+{
+  "app_name": "Su Anbarı Monitorinqi",
+  "hello": "Salam",
+  "welcome": "Xoş gəlmisiniz",
+  "login": "Daxil ol",
+  "logout": "Çıxış",
+  "username": "İstifadəçi adı",
+  "password": "Şifrə",
+  "email": "Elektron poçt",
+  "phone": "Telefon nömrəsi",
+  
+  "buttons": {
+    "save": "Saxla",
+    "cancel": "Ləğv et",
+    "delete": "Sil",
+    "edit": "Redaktə et",
+    "add": "Əlavə et",
+    "search": "Axtar",
+    "filter": "Filtr",
+    "submit": "Göndər",
+    "confirm": "Təsdiq et"
+  },
+  
+  "messages": {
+    "success": "Uğurla yerinə yetirildi",
+    "error": "Xəta baş verdi",
+    "loading": "Yüklənir...",
+    "no_data": "Məlumat tapılmadı",
+    "no_internet": "İnternet bağlantısı yoxdur"
+  },
+  
+  "validation": {
+    "required": "Bu sahə mütləqdir",
+    "invalid_email": "Email formatı səhvdir",
+    "invalid_phone": "Telefon nömrəsi səhvdir",
+    "min_length": "Ən azı {0} simvol olmalıdır",
+    "max_length": "Ən çox {0} simvol olmalıdır"
+  },
+  
+  "home": {
+    "latest_data": "Son məlumatlar",
+    "station_info": "Stansiya məlumatları",
+    "map": "Xəritə",
+    "statistics": "Statistika",
+    "settings": "Parametrlər",
+    "loading": "Məlumatlar yüklənir...",
+    "no_data_found": "Məlumat tapılmadı",
+    "no_data_available": "Məlumat yoxdur",
+    "retry": "Yenidən cəhd et",
+    "water_level": "Su səviyyəsi:",
+    "water_flow": "Su sərfi:",
+    "time": "Vaxt:",
+    "error_occurred": "Xəta baş verdi",
+    "fresh_data": "Təzə məlumat",
+    "week_old": "1 həftəlik",
+    "stale_data": "Köhnə məlumat",
+    "stations_statistics": "Stansiyaların statistikası",
+    "total_stations": "Ümumi stansiyalar",
+    "working_stations": "İşləyən stansiyalar",
+    "not_working_stations": "İşləməyən stansiyalar",
+    "close": "Bağla"
+  },
+  
+  "station_data": {
+    "tabs": {
+      "hourly": "SAATLIK",
+      "yesterday": "DÜNƏNKİ",
+      "monthly": "AYLIK",
+      "yearly": "İLLİK",
+      "custom": "SEÇİLMİŞ VAXT"
+    },
+    "titles": {
+      "today_data": "Bugünkü məlumatlar",
+      "yesterday_data": "Dünənki məlumatlar",
+      "monthly_data": "günlük məlumatlar",
+      "yearly_data": "aylıq məlumatlar",
+      "custom_data": "Seçilmiş vaxt aralığı"
+    },
+    "labels": {
+      "water_level": "Su səviyyəsi:",
+      "water_volume": "Su həcmi:",
+      "correction": "Düzəliş:",
+      "start_date": "Başlanğıc",
+      "end_date": "Son",
+      "select": "Seç",
+      "view_data": "Məlumatları göstər",
+      "clear": "Təmizlə",
+      "from": "dan",
+      "to": "dək"
+    },
+    "messages": {
+      "loading": "Məlumatlar yüklənir...",
+      "no_data": "Məlumat tapılmadı",
+      "no_data_desc": "Seçilmiş tarix aralığında məlumat yoxdur",
+      "error": "Xəta baş verdi",
+      "retry": "Yenidən cəhd et",
+      "reload": "Yenidən yüklə",
+      "select_range": "Tarix aralığını seçin",
+      "select_range_desc": "Yuxarıda başlanğıc və son tarixləri seçərək məlumatları görün"
+    },
+    "months": {
+      "january": "Yanvar",
+      "february": "Fevral",
+      "march": "Mart",
+      "april": "Aprel",
+      "may": "May",
+      "june": "İyun",
+      "july": "İyul",
+      "august": "Avqust",
+      "september": "Sentyabr",
+      "october": "Oktyabr",
+      "november": "Noyabr",
+      "december": "Dekabr"
+    }
+  },
+  
+  "station_info": {
+    "title": "Stansiya məlumatları",
+    "status": {
+      "active": "Aktiv",
+      "inactive": "Aktiv deyil",
+      "defective": "Nasaz"
+    },
+    "sections": {
+      "basic_info": "Əsas məlumatlar",
+      "contact_info": "Əlaqə məlumatları",
+      "location": "Yerləşmə",
+      "data_transmission": "Məlumat göndərmə",
+      "technical_info": "Texniki məlumatlar",
+      "integration": "İnteqrasiya",
+      "last_measurement": "Son ölçmə"
+    },
+    "labels": {
+      "id": "ID",
+      "imel": "IMEL",
+      "created_date": "Yaradılma tarixi",
+      "updated_date": "Yenilənmə tarixi",
+      "user_phone": "İstifadəçi nömrəsi",
+      "device_phone": "Cihaz nömrəsi",
+      "coordinates": "Koordinatlar",
+      "send_data_time": "Data göndərmə vaxtı",
+      "send_info_time": "Info göndərmə vaxtı",
+      "program_version": "Proqram versiyası",
+      "temperature": "Temperatura",
+      "battery": "Batareya",
+      "signal": "Siqnal",
+      "integration_status": "İnteqrasiya statusu",
+      "integration_date": "İnteqrasiya tarixi",
+      "water_level": "Su səviyyəsi",
+      "water_volume": "Su həcmi",
+      "correction": "Düzəliş",
+      "measurement_time": "Ölçmə vaxtı"
+    },
+    "placeholders": {
+      "not_entered": "Daxil edilməyib",
+      "not_set": "Təyin edilməyib",
+      "unknown": "Naməlum",
+      "connected": "Bağlı"
+    }
+  },
+  
+  "settings": {
+    "title": "Parametrlər",
+    "user_info": {
+      "title": "İstifadəçi məlumatları",
+      "name": "Ad",
+      "phone": "Telefon",
+      "role": "Rol",
+      "id": "ID",
+      "not_available": "Məlumat yoxdur"
+    },
+    "language": {
+      "title": "Dil parametrləri",
+      "subtitle": "Tətbiq dilini dəyişdirin",
+      "uzbek": "O'zbekcha",
+      "english": "English",
+      "russian": "Русский",
+      "azerbaijani": "Azərbaycanca",
+      "current": "Cari dil"
+    },
+    "theme": {
+      "title": "Mövzu",
+      "subtitle": "İşıqlı və ya qaranlıq rejim",
+      "light": "İşıqlı rejim",
+      "dark": "Qaranlıq rejim",
+      "system": "Sistem parametrləri"
+    },
+    "about_app": {
+      "title": "Tətbiq haqqında",
+      "version": "Versiya",
+      "description": "ReservoSense - Müasir su anbarı monitorinq sistemi",
+      "features_title": "Əsas imkanlar",
+      "features": {
+        "real_time": "Real vaxt monitorinqi",
+        "statistics": "Genişlənmiş statistika",
+        "map": "İnteraktiv xəritə",
+        "multilang": "Çoxdillilik",
+        "notifications": "Bildirişlər"
+      },
+      "developer": "Tərtibatçı",
+      "email": "Elektron poçt",
+      "phone": "Telefon",
+      "last_update": "Son yeniləmə"
+    },
+    "about_company": {
+      "title": "Şirkət haqqında",
+      "company_name": "Smart Solutions System",
+      "company_type": "MMC",
+      "description": "Biz müasir IT həlləri təqdim edən şirkətik. Su ehtiyatlarının monitorinqi, ağıllı sistemlər və IoT həllərində ixtisaslaşırıq.",
+      "services_title": "Xidmətlər",
+      "services": {
+        "monitoring": "Su ehtiyatlarının monitorinqi",
+        "iot": "IoT həlləri",
+        "software": "Proqram təminatının işlənməsi",
+        "consulting": "IT məsləhət",
+        "support": "Texniki dəstək"
+      },
+      "contact_info": "Əlaqə məlumatları",
+      "address": "Ünvan",
+      "address_text": "Daşkənd, Özbəkistan",
+      "working_hours": "İş saatları",
+      "working_hours_text": "Bazar ertəsi - Cümə: 09:00 - 18:00",
+      "website": "Veb-sayt",
+      "telegram": "Telegram"
+    },
+    "menu": {
+      "logout": "Çıxış",
+      "logout_confirm": "Çıxmaq istəyirsiniz?",
+      "logout_message": "Yenidən daxil olmaq üçün login və parol daxil etməlisiniz",
+      "delete_account": "Hesabı sil",
+      "delete_account_confirm": "Hesabın silinməsini təsdiqləyirsiniz?",
+      "delete_account_message": "Diqqət! Hesabınız və bütün məlumatlarınız tamamilə silinəcək. Bu əməliyyatı geri qaytarmaq mümkün deyil!",
+      "delete_account_warning": "Bu çox təhlükəli əməliyyatdır!"
+    }
+  }
+}

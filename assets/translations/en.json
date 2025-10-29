@@ -1,0 +1,259 @@
+{
+  "app_name": "Water Storage Monitoring",
+  "hello": "Hello",
+  "login": "Login",
+  "logout": "Logout",
+  "username": "Username",
+  "password": "Password",
+  "email": "Email",
+  "phone": "Phone number",
+  
+  "language": {
+    "select_language": "Select Language",
+    "choose_language": "Choose your language",
+    "language_selected": "language selected",
+    "continue": "Continue"
+  },
+  
+  "welcome": {
+    "title": "Welcome to ReservoSense",
+    "subtitle": "Smart & Easy Water Storage Management",
+    "description": "Monitor water resources efficiently with modern technology",
+    "sign_in": "Sign In",
+    "sign_up": "Sign Up",
+    "already_have_account": "Already have an account?",
+    "dont_have_account": "Don't have an account?",
+    "sign_up_info_title": "Registration Information",
+    "sign_up_info_1": "To use the application, you need to contact the communication department of 'Smart Solutions System' LLC to obtain your login and password.\n\n",
+    "sign_up_info_2": "For more information:\n\n",
+    "sign_up_info_3": "- Phone: +998 99 834 11 93\n",
+    "sign_up_info_4": "- Email: sss.ird@mail.ru\n",
+    "sign_up_info_5": "- Telegram: @dilshodjon216",
+    "sign_up_button_ok": "Understood"
+  },
+  
+  "buttons": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "add": "Add",
+    "search": "Search",
+    "filter": "Filter",
+    "submit": "Submit",
+    "confirm": "Confirm"
+  },
+  
+  "messages": {
+    "success": "Success",
+    "error": "Error occurred",
+    "loading": "Loading...",
+    "no_data": "No data found",
+    "no_internet": "No internet connection"
+  },
+  
+  "validation": {
+    "required": "This field is required",
+    "invalid_email": "Invalid email format",
+    "invalid_phone": "Invalid phone number",
+    "min_length": "Must be at least {0} characters",
+    "max_length": "Must be at most {0} characters"
+  },
+  
+  "home": {
+    "latest_data": "Latest Data",
+    "station_info": "Station Information",
+    "map": "Map",
+    "statistics": "Statistics",
+    "settings": "Settings",
+    "loading": "Loading data...",
+    "no_data_found": "No data found",
+    "no_data_available": "No data available",
+    "retry": "Retry",
+    "water_level": "Water Level:",
+    "water_flow": "Water Flow:",
+    "time": "Time:",
+    "error_occurred": "Error occurred",
+    "fresh_data": "Fresh data",
+    "week_old": "1 week old",
+    "stale_data": "Stale data",
+    "stations_statistics": "Stations Statistics",
+    "total_stations": "Total Stations",
+    "working_stations": "Working Stations",
+    "not_working_stations": "Not Working Stations",
+    "close": "Close"
+  },
+  
+  "station_data": {
+    "tabs": {
+      "hourly": "HOURLY",
+      "yesterday": "YESTERDAY",
+      "monthly": "MONTHLY",
+      "yearly": "YEARLY",
+      "custom": "CUSTOM TIME"
+    },
+    "titles": {
+      "today_data": "Today's Data",
+      "yesterday_data": "Yesterday's Data",
+      "monthly_data": "daily data",
+      "yearly_data": "monthly data",
+      "custom_data": "Custom Time Range"
+    },
+    "labels": {
+      "water_level": "Water Level:",
+      "water_volume": "Water Volume:",
+      "correction": "Correction:",
+      "start_date": "Start Date",
+      "end_date": "End Date",
+      "select": "Select",
+      "view_data": "View Data",
+      "clear": "Clear",
+      "from": "from",
+      "to": "to"
+    },
+    "messages": {
+      "loading": "Loading data...",
+      "no_data": "No data found",
+      "no_data_desc": "No data available for the selected date range",
+      "error": "Error occurred",
+      "retry": "Retry",
+      "reload": "Reload",
+      "select_range": "Select date range",
+      "select_range_desc": "Select start and end dates above to view data"
+    },
+    "months": {
+      "january": "January",
+      "february": "February",
+      "march": "March",
+      "april": "April",
+      "may": "May",
+      "june": "June",
+      "july": "July",
+      "august": "August",
+      "september": "September",
+      "october": "October",
+      "november": "November",
+      "december": "December"
+    }
+  },
+  
+  "station_info": {
+    "title": "Station Information",
+    "status": {
+      "active": "Active",
+      "inactive": "Inactive",
+      "defective": "Defective"
+    },
+    "sections": {
+      "basic_info": "Basic Information",
+      "contact_info": "Contact Information",
+      "location": "Location",
+      "data_transmission": "Data Transmission",
+      "technical_info": "Technical Information",
+      "integration": "Integration",
+      "last_measurement": "Last Measurement"
+    },
+    "labels": {
+      "id": "ID",
+      "imel": "IMEL",
+      "created_date": "Created Date",
+      "updated_date": "Updated Date",
+      "user_phone": "User Phone Number",
+      "device_phone": "Device Phone Number",
+      "coordinates": "Coordinates",
+      "send_data_time": "Send Data Time",
+      "send_info_time": "Send Info Time",
+      "program_version": "Program Version",
+      "temperature": "Temperature",
+      "battery": "Battery",
+      "signal": "Signal",
+      "integration_status": "Integration Status",
+      "integration_date": "Integration Date",
+      "water_level": "Water Level",
+      "water_volume": "Water Volume",
+      "correction": "Correction",
+      "measurement_time": "Measurement Time"
+    },
+    "placeholders": {
+      "not_entered": "Not entered",
+      "not_set": "Not set",
+      "unknown": "Unknown",
+      "connected": "Connected"
+    }
+  },
+  
+  "settings": {
+    "title": "Settings",
+    "user_info": {
+      "title": "User Information",
+      "name": "Name",
+      "phone": "Phone",
+      "role": "Role",
+      "id": "ID",
+      "not_available": "Not available"
+    },
+    "language": {
+      "title": "Language Settings",
+      "subtitle": "Change application language",
+      "uzbek": "O'zbekcha",
+      "english": "English",
+      "russian": "Русский",
+      "azerbaijani": "Azərbaycanca",
+      "current": "Current language"
+    },
+    "theme": {
+      "title": "Theme",
+      "subtitle": "Light or dark mode",
+      "light": "Light mode",
+      "dark": "Dark mode",
+      "system": "System default"
+    },
+    "about_app": {
+      "title": "About App",
+      "version": "Version",
+      "description": "ReservoSense - Modern water reservoir monitoring system",
+      "features_title": "Key Features",
+      "features": {
+        "real_time": "Real-time monitoring",
+        "statistics": "Advanced statistics",
+        "map": "Interactive map",
+        "multilang": "Multilingual support",
+        "notifications": "Notifications"
+      },
+      "developer": "Developer",
+      "email": "Email",
+      "phone": "Phone",
+      "last_update": "Last Update"
+    },
+    "about_company": {
+      "title": "About Company",
+      "company_name": "Smart Solutions System",
+      "company_type": "LLC",
+      "description": "We are a company providing modern IT solutions. We specialize in water resource monitoring, smart systems and IoT solutions.",
+      "services_title": "Services",
+      "services": {
+        "monitoring": "Water resource monitoring",
+        "iot": "IoT solutions",
+        "software": "Software development",
+        "consulting": "IT consulting",
+        "support": "Technical support"
+      },
+      "contact_info": "Contact Information",
+      "address": "Address",
+      "address_text": "Tashkent, Uzbekistan",
+      "working_hours": "Working Hours",
+      "working_hours_text": "Monday - Friday: 09:00 - 18:00",
+      "website": "Website",
+      "telegram": "Telegram"
+    },
+    "menu": {
+      "logout": "Logout",
+      "logout_confirm": "Do you want to logout?",
+      "logout_message": "You will need to enter your login and password again",
+      "delete_account": "Delete Account",
+      "delete_account_confirm": "Confirm Account Deletion?",
+      "delete_account_message": "Warning! Your account and all data will be permanently deleted. This action cannot be undone!",
+      "delete_account_warning": "This is a very dangerous action!"
+    }
+  }
+}

@@ -1,0 +1,85 @@
+# Core Dependencies
+auto_route
+flutter_bloc
+get_it
+injectable
+dartz
+equatable
+freezed_annotation
+json_annotation
+
+# Network & API
+dio
+retrofit
+pretty_dio_logger
+connectivity_plus
+internet_connection_checker
+
+# Storage & Cache
+shared_preferences
+hive
+hive_flutter
+flutter_secure_storage
+
+# UI & Styling
+sizer
+flutter_screenutil
+cached_network_image
+shimmer
+lottie
+flutter_svg
+google_fonts
+
+# Localization
+easy_localization
+
+# State Management & Navigation
+restart_app
+
+# Utils & Helpers
+intl
+logger
+path_provider
+url_launcher
+package_info_plus
+
+# Permissions & Location
+permission_handler
+geolocator
+location
+
+# UI Components
+drag_and_drop_lists
+chips_choice
+easy_stepper
+flutter_slidable
+table_calendar
+flutter_rating_bar
+badges
+pin_code_fields
+image_picker
+file_picker
+
+# Charts & Visualization
+syncfusion_flutter_charts
+fl_chart
+
+# PDF & Documents
+pdf
+printing
+syncfusion_flutter_pdf
+
+# Share & Export
+share_plus
+
+# Date & Time
+timeago
+
+# Image & Media
+photo_view
+flutter_image_compress
+
+# Utilities
+uuid
+mask_text_input_formatter
+device_info_plus

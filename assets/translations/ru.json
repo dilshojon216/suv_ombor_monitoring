@@ -1,0 +1,259 @@
+{
+  "app_name": "Мониторинг водохранилища",
+  "hello": "Здравствуйте",
+  "login": "Войти",
+  "logout": "Выйти",
+  "username": "Имя пользователя",
+  "password": "Пароль",
+  "email": "Электронная почта",
+  "phone": "Номер телефона",
+  
+  "language": {
+    "select_language": "Выберите язык",
+    "choose_language": "Выберите ваш язык",
+    "language_selected": "язык выбран",
+    "continue": "Продолжить"
+  },
+  
+  "welcome": {
+    "title": "Добро пожаловать в ReservoSense",
+    "subtitle": "Умное и простое управление водохранилищем",
+    "description": "Эффективный мониторинг водных ресурсов с современными технологиями",
+    "sign_in": "Войти",
+    "sign_up": "Регистрация",
+    "already_have_account": "Уже есть аккаунт?",
+    "dont_have_account": "Нет аккаунта?",
+    "sign_up_info_title": "Информация о регистрации",
+    "sign_up_info_1": "Для использования приложения вам необходимо связаться с отделом связи ООО 'Smart Solutions System', чтобы получить свои логин и пароль.\n\n",
+    "sign_up_info_2": "Для получения дополнительной информации:\n\n",
+    "sign_up_info_3": "- Телефон: +998 99 834 11 93\n",
+    "sign_up_info_4": "- Электронная почта: sss.ird@mail.ru\n",
+    "sign_up_info_5": "- Telegram: @dilshodjon216",
+    "sign_up_button_ok": "Понятно"
+  },
+  
+  "buttons": {
+    "save": "Сохранить",
+    "cancel": "Отмена",
+    "delete": "Удалить",
+    "edit": "Редактировать",
+    "add": "Добавить",
+    "search": "Поиск",
+    "filter": "Фильтр",
+    "submit": "Отправить",
+    "confirm": "Подтвердить"
+  },
+  
+  "messages": {
+    "success": "Успешно выполнено",
+    "error": "Произошла ошибка",
+    "loading": "Загрузка...",
+    "no_data": "Данные не найдены",
+    "no_internet": "Нет подключения к интернету"
+  },
+  
+  "validation": {
+    "required": "Это поле обязательно",
+    "invalid_email": "Неверный формат email",
+    "invalid_phone": "Неверный номер телефона",
+    "min_length": "Должно быть не менее {0} символов",
+    "max_length": "Должно быть не более {0} символов"
+  },
+  
+  "home": {
+    "latest_data": "Последние данные",
+    "station_info": "Информация о станции",
+    "map": "Карта",
+    "statistics": "Статистика",
+    "settings": "Настройки",
+    "loading": "Загрузка данных...",
+    "no_data_found": "Данные не найдены",
+    "no_data_available": "Нет данных",
+    "retry": "Повторить",
+    "water_level": "Уровень воды:",
+    "water_flow": "Расход воды:",
+    "time": "Время:",
+    "error_occurred": "Произошла ошибка",
+    "fresh_data": "Свежие данные",
+    "week_old": "1 неделя",
+    "stale_data": "Устаревшие данные",
+    "stations_statistics": "Статистика станций",
+    "total_stations": "Всего станций",
+    "working_stations": "Работающие станции",
+    "not_working_stations": "Неработающие станции",
+    "close": "Закрыть"
+  },
+  
+  "station_data": {
+    "tabs": {
+      "hourly": "ПОЧАСОВОЙ",
+      "yesterday": "ВЧЕРАШНИЙ",
+      "monthly": "МЕСЯЧНЫЙ",
+      "yearly": "ГОДОВОЙ",
+      "custom": "ВЫБРАННОЕ ВРЕМЯ"
+    },
+    "titles": {
+      "today_data": "Данные сегодня",
+      "yesterday_data": "Данные вчера",
+      "monthly_data": "ежедневные данные",
+      "yearly_data": "ежемесячные данные",
+      "custom_data": "Выбранный временной диапазон"
+    },
+    "labels": {
+      "water_level": "Уровень воды:",
+      "water_volume": "Объем воды:",
+      "correction": "Коррекция:",
+      "start_date": "Начальная дата",
+      "end_date": "Конечная дата",
+      "select": "Выбрать",
+      "view_data": "Показать данные",
+      "clear": "Очистить",
+      "from": "с",
+      "to": "по"
+    },
+    "messages": {
+      "loading": "Загрузка данных...",
+      "no_data": "Данные не найдены",
+      "no_data_desc": "Нет данных за выбранный период",
+      "error": "Произошла ошибка",
+      "retry": "Повторить",
+      "reload": "Перезагрузить",
+      "select_range": "Выберите диапазон дат",
+      "select_range_desc": "Выберите начальную и конечную даты выше для просмотра данных"
+    },
+    "months": {
+      "january": "Январь",
+      "february": "Февраль",
+      "march": "Март",
+      "april": "Апрель",
+      "may": "Май",
+      "june": "Июнь",
+      "july": "Июль",
+      "august": "Август",
+      "september": "Сентябрь",
+      "october": "Октябрь",
+      "november": "Ноябрь",
+      "december": "Декабрь"
+    }
+  },
+  
+  "station_info": {
+    "title": "Информация о станции",
+    "status": {
+      "active": "Активна",
+      "inactive": "Неактивна",
+      "defective": "Неисправна"
+    },
+    "sections": {
+      "basic_info": "Основная информация",
+      "contact_info": "Контактная информация",
+      "location": "Местоположение",
+      "data_transmission": "Передача данных",
+      "technical_info": "Техническая информация",
+      "integration": "Интеграция",
+      "last_measurement": "Последнее измерение"
+    },
+    "labels": {
+      "id": "ID",
+      "imel": "IMEL",
+      "created_date": "Дата создания",
+      "updated_date": "Дата обновления",
+      "user_phone": "Номер пользователя",
+      "device_phone": "Номер устройства",
+      "coordinates": "Координаты",
+      "send_data_time": "Время отправки данных",
+      "send_info_time": "Время отправки информации",
+      "program_version": "Версия программы",
+      "temperature": "Температура",
+      "battery": "Батарея",
+      "signal": "Сигнал",
+      "integration_status": "Статус интеграции",
+      "integration_date": "Дата интеграции",
+      "water_level": "Уровень воды",
+      "water_volume": "Объем воды",
+      "correction": "Коррекция",
+      "measurement_time": "Время измерения"
+    },
+    "placeholders": {
+      "not_entered": "Не введено",
+      "not_set": "Не установлено",
+      "unknown": "Неизвестно",
+      "connected": "Подключено"
+    }
+  },
+  
+  "settings": {
+    "title": "Настройки",
+    "user_info": {
+      "title": "Информация о пользователе",
+      "name": "Имя",
+      "phone": "Телефон",
+      "role": "Роль",
+      "id": "ID",
+      "not_available": "Нет данных"
+    },
+    "language": {
+      "title": "Настройки языка",
+      "subtitle": "Изменить язык приложения",
+      "uzbek": "O'zbekcha",
+      "english": "English",
+      "russian": "Русский",
+      "azerbaijani": "Azərbaycanca",
+      "current": "Текущий язык"
+    },
+    "theme": {
+      "title": "Тема",
+      "subtitle": "Светлая или темная тема",
+      "light": "Светлая тема",
+      "dark": "Темная тема",
+      "system": "Системная"
+    },
+    "about_app": {
+      "title": "О приложении",
+      "version": "Версия",
+      "description": "ReservoSense - Современная система мониторинга водохранилищ",
+      "features_title": "Основные возможности",
+      "features": {
+        "real_time": "Мониторинг в реальном времени",
+        "statistics": "Расширенная статистика",
+        "map": "Интерактивная карта",
+        "multilang": "Многоязычность",
+        "notifications": "Уведомления"
+      },
+      "developer": "Разработчик",
+      "email": "Электронная почта",
+      "phone": "Телефон",
+      "last_update": "Последнее обновление"
+    },
+    "about_company": {
+      "title": "О компании",
+      "company_name": "Smart Solutions System",
+      "company_type": "ООО",
+      "description": "Мы компания, предоставляющая современные IT-решения. Специализируемся на мониторинге водных ресурсов, умных системах и IoT-решениях.",
+      "services_title": "Услуги",
+      "services": {
+        "monitoring": "Мониторинг водных ресурсов",
+        "iot": "IoT-решения",
+        "software": "Разработка ПО",
+        "consulting": "IT-консалтинг",
+        "support": "Техподдержка"
+      },
+      "contact_info": "Контактная информация",
+      "address": "Адрес",
+      "address_text": "Ташкент, Узбекистан",
+      "working_hours": "Режим работы",
+      "working_hours_text": "Понедельник - Пятница: 09:00 - 18:00",
+      "website": "Веб-сайт",
+      "telegram": "Telegram"
+    },
+    "menu": {
+      "logout": "Выйти",
+      "logout_confirm": "Вы хотите выйти?",
+      "logout_message": "Вам нужно будет снова ввести логин и пароль",
+      "delete_account": "Удалить аккаунт",
+      "delete_account_confirm": "Подтвердить удаление аккаунта?",
+      "delete_account_message": "Внимание! Ваш аккаунт и все данные будут безвозвратно удалены. Это действие невозможно отменить!",
+      "delete_account_warning": "Это очень опасное действие!"
+    }
+  }
+}

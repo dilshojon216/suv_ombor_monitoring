@@ -1,0 +1,24 @@
+# Code Generation
+build_runner
+injectable_generator
+retrofit_generator
+json_serializable
+freezed
+auto_route_generator
+hive_generator
+
+# Testing - Commented due to conflicts
+# mockito - use mocktail instead if needed
+# bloc_test - conflicts with injectable_generator 2.9.0+
+
+# Code Quality
+very_good_analysis
+
+# Platform Specific
+google_maps_flutter_web
+syncfusion_flutter_xlsio
+
+# Development Tools
+flutter_launcher_icons
+flutter_native_splash
+change_app_package_name

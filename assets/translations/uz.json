@@ -1,0 +1,259 @@
+{
+  "app_name": "Suv Ombor Monitoring",
+  "hello": "Salom",
+  "login": "Kirish",
+  "logout": "Chiqish",
+  "username": "Foydalanuvchi nomi",
+  "password": "Parol",
+  "email": "Elektron pochta",
+  "phone": "Telefon raqami",
+  
+  "language": {
+    "select_language": "Tilni tanlang",
+    "choose_language": "Dasturingiz tilini tanlang",
+    "language_selected": "tili tanlandi",
+    "continue": "Davom etish"
+  },
+  
+  "welcome": {
+    "title": "Reservo Sense tizmiga \nXush kelibsiz!",
+    "subtitle": "Suv omborini aqlli va oson boshqaring",
+    "description": "Zamonaviy texnologiya yordamida suv resurslarini samarali monitoring qiling",
+    "sign_in": "Kirish",
+    "sign_up": "Ro'yxatdan o'tish",
+    "already_have_account": "Hisobingiz bormi?",
+    "dont_have_account": "Hisobingiz yo'qmi?",
+    "sign_up_info_title": "Ro'yxatdan o'tish haqida",
+    "sign_up_info_1": "Dasturdan foydalanish uchun siz 'Smart Solutions System' MCHJ ning aloqa bo'limi bilan bog'lanib o'zizga tegishli bo'lgan login va parolni olishingiz mumkin.\n\n",
+    "sign_up_info_2": "Qo'shimcha ma'lumotlar uchun:\n\n",
+    "sign_up_info_3": "- Telefon: +998 99 834 11 93\n",
+    "sign_up_info_4": "- Elektron pochta: sss.ird@mail.ru\n",
+    "sign_up_info_5": "- Telegram: @dilshodjon216",
+    "sign_up_button_ok": "Tushundim"
+  },
+  
+  "buttons": {
+    "save": "Saqlash",
+    "cancel": "Bekor qilish",
+    "delete": "O'chirish",
+    "edit": "Tahrirlash",
+    "add": "Qo'shish",
+    "search": "Qidirish",
+    "filter": "Filtrlash",
+    "submit": "Yuborish",
+    "confirm": "Tasdiqlash"
+  },
+  
+  "messages": {
+    "success": "Muvaffaqiyatli bajarildi",
+    "error": "Xatolik yuz berdi",
+    "loading": "Yuklanmoqda...",
+    "no_data": "Ma'lumot topilmadi",
+    "no_internet": "Internet aloqasi yo'q"
+  },
+  
+  "validation": {
+    "required": "Bu maydon to'ldirilishi shart",
+    "invalid_email": "Noto'g'ri email format",
+    "invalid_phone": "Noto'g'ri telefon raqam",
+    "min_length": "Kamida {0} ta belgi bo'lishi kerak",
+    "max_length": "Ko'pi bilan {0} ta belgi bo'lishi mumkin"
+  },
+  
+  "home": {
+    "latest_data": "Oxirgi ma'lumotlar",
+    "station_info": "Stansiya ma'lumotlari",
+    "map": "Xarita",
+    "statistics": "Statistika",
+    "settings": "Sozlamalar",
+    "loading": "Ma'lumotlar yuklanmoqda...",
+    "no_data_found": "Ma'lumot topilmadi",
+    "no_data_available": "Ma'lumotlar yo'q",
+    "retry": "Qayta urinish",
+    "water_level": "Suv sathi:",
+    "water_flow": "Suv sarfi:",
+    "time": "Vaqti:",
+    "error_occurred": "Xatolik yuz berdi",
+    "fresh_data": "Yangi ma'lumot",
+    "week_old": "1 haftalik",
+    "stale_data": "Eski ma'lumot",
+    "stations_statistics": "Stansiyalar statistikasi",
+    "total_stations": "Umumiy stansiyalar",
+    "working_stations": "Ishlayotgan stansiyalar",
+    "not_working_stations": "Ishlamayotgan stansiyalar",
+    "close": "Yopish"
+  },
+  
+  "station_data": {
+    "tabs": {
+      "hourly": "SOATLIK",
+      "yesterday": "KECHAGI",
+      "monthly": "OYLIK",
+      "yearly": "YILLIK",
+      "custom": "TANLANGAN VAQT"
+    },
+    "titles": {
+      "today_data": "Bugun kun ma'lumotlari",
+      "yesterday_data": "Kechagi kun ma'lumotlari",
+      "monthly_data": "oyining kunlik ma'lumotlari",
+      "yearly_data": "yilning oylik ma'lumotlari",
+      "custom_data": "Tanlangan vaqt oralig'i"
+    },
+    "labels": {
+      "water_level": "Suv Sathi:",
+      "water_volume": "Suv hajmi:",
+      "correction": "Tuzatish:",
+      "start_date": "Boshlanish",
+      "end_date": "Tugash",
+      "select": "Tanlang",
+      "view_data": "Ma'lumotlarni ko'rish",
+      "clear": "Tozalash",
+      "from": "dan",
+      "to": "gacha"
+    },
+    "messages": {
+      "loading": "Ma'lumotlar yuklanmoqda...",
+      "no_data": "Ma'lumot topilmadi",
+      "no_data_desc": "Tanlangan sana oralig'ida ma'lumotlar mavjud emas",
+      "error": "Xatolik yuz berdi",
+      "retry": "Qayta urinish",
+      "reload": "Qayta yuklash",
+      "select_range": "Sana oralig'ini tanlang",
+      "select_range_desc": "Yuqorida boshlanish va tugash sanalarini tanlab, ma'lumotlarni ko'ring"
+    },
+    "months": {
+      "january": "Yanvar",
+      "february": "Fevral",
+      "march": "Mart",
+      "april": "Aprel",
+      "may": "May",
+      "june": "Iyun",
+      "july": "Iyul",
+      "august": "Avgust",
+      "september": "Sentabr",
+      "october": "Oktabr",
+      "november": "Noyabr",
+      "december": "Dekabr"
+    }
+  },
+  
+  "station_info": {
+    "title": "Stansiya ma'lumotlari",
+    "status": {
+      "active": "Faol",
+      "inactive": "Faol emas",
+      "defective": "Nosoz"
+    },
+    "sections": {
+      "basic_info": "Asosiy ma'lumotlar",
+      "contact_info": "Aloqa ma'lumotlari",
+      "location": "Joylashuv",
+      "data_transmission": "Ma'lumot yuborish",
+      "technical_info": "Texnik ma'lumotlar",
+      "integration": "Integratsiya",
+      "last_measurement": "Oxirgi o'lchov"
+    },
+    "labels": {
+      "id": "ID",
+      "imel": "IMEL",
+      "created_date": "Qo'yilgan sana",
+      "updated_date": "Yangilangan sana",
+      "user_phone": "Foydalanuvchi raqami",
+      "device_phone": "Qurilma raqami",
+      "coordinates": "Koordinatalar",
+      "send_data_time": "Data yuborish vaqti",
+      "send_info_time": "Info yuborish vaqti",
+      "program_version": "Dastur versiyasi",
+      "temperature": "Temperatura",
+      "battery": "Batareya",
+      "signal": "Signal",
+      "integration_status": "Integratsiya holati",
+      "integration_date": "Integratsiya sanasi",
+      "water_level": "Suv sathi",
+      "water_volume": "Suv hajmi",
+      "correction": "Tuzatish",
+      "measurement_time": "O'lchov vaqti"
+    },
+    "placeholders": {
+      "not_entered": "Kiritilmagan",
+      "not_set": "Belgilanmagan",
+      "unknown": "Noma'lum",
+      "connected": "Ulangan"
+    }
+  },
+  
+  "settings": {
+    "title": "Sozlamalar",
+    "user_info": {
+      "title": "Foydalanuvchi ma'lumotlari",
+      "name": "Ism",
+      "phone": "Telefon",
+      "role": "Rol",
+      "id": "ID",
+      "not_available": "Ma'lumot yo'q"
+    },
+    "language": {
+      "title": "Til sozlamalari",
+      "subtitle": "Dastur tilini o'zgartirish",
+      "uzbek": "O'zbekcha",
+      "english": "English",
+      "russian": "Русский",
+      "azerbaijani": "Azərbaycanca",
+      "current": "Joriy til"
+    },
+    "theme": {
+      "title": "Mavzu",
+      "subtitle": "Yorug' yoki qorong'i rejim",
+      "light": "Yorug' rejim",
+      "dark": "Qorong'i rejim",
+      "system": "Tizim sozlamalariga muvofiq"
+    },
+    "about_app": {
+      "title": "Ilova haqida",
+      "version": "Versiya",
+      "description": "ReservoSense - zamonaviy suv ombori monitoring tizimi",
+      "features_title": "Asosiy imkoniyatlar",
+      "features": {
+        "real_time": "Real vaqt monitoringi",
+        "statistics": "Kengaytirilgan statistika",
+        "map": "Interaktiv xarita",
+        "multilang": "Ko'p tillilik",
+        "notifications": "Bildirishnomalar"
+      },
+      "developer": "Ishlab chiquvchi",
+      "email": "Elektron pochta",
+      "phone": "Telefon",
+      "last_update": "Oxirgi yangilanish"
+    },
+    "about_company": {
+      "title": "Kompaniya haqida",
+      "company_name": "Smart Solutions System",
+      "company_type": "MCHJ",
+      "description": "Biz zamonaviy IT yechimlarni taqdim etuvchi kompaniyamiz. Suv resurslari monitoringi, aqlli tizimlar va IoT yechimlari sohasida ixtisoslashganmiz.",
+      "services_title": "Xizmatlar",
+      "services": {
+        "monitoring": "Suv resurslari monitoringi",
+        "iot": "IoT yechimlari",
+        "software": "Dasturiy ta'minot ishlab chiqish",
+        "consulting": "IT konsalting",
+        "support": "Texnik yordam"
+      },
+      "contact_info": "Bog'lanish ma'lumotlari",
+      "address": "Manzil",
+      "address_text": "Toshkent, O'zbekiston",
+      "working_hours": "Ish vaqti",
+      "working_hours_text": "Dushanba - Juma: 09:00 - 18:00",
+      "website": "Veb-sayt",
+      "telegram": "Telegram"
+    },
+    "menu": {
+      "logout": "Chiqish",
+      "logout_confirm": "Hisobdan chiqishni xohlaysizmi?",
+      "logout_message": "Qayta kirish uchun login va parol kiritishingiz kerak bo'ladi",
+      "delete_account": "Hisobni o'chirish",
+      "delete_account_confirm": "Hisobni o'chirishni tasdiqlaysizmi?",
+      "delete_account_message": "Diqqat! Hisobingiz va barcha ma'lumotlaringiz butunlay o'chiriladi. Bu amalni qaytarib bo'lmaydi!",
+      "delete_account_warning": "Bu juda xavfli amal!"
+    }
+  }
+}
