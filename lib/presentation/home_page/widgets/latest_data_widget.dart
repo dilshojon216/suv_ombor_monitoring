@@ -8,7 +8,6 @@ import 'package:infinite_scroll_pagination/infinite_scroll_pagination.dart';
 import 'package:jiffy/jiffy.dart';
 import 'package:sizer/sizer.dart';
 import 'package:suv_ombor_monitoring/core/core.dart';
-import 'package:suv_ombor_monitoring/presentation/home_page/bloc/get_last_data_bloc/get_last_data_bloc.dart';
 
 class LatestDataWidget extends StatefulWidget {
   const LatestDataWidget({super.key});
@@ -237,7 +236,7 @@ class _LatestDataWidgetState extends State<LatestDataWidget> {
                       textAlign: TextAlign.center,
                       style: theme.textTheme.titleMedium?.copyWith(
                         fontWeight: FontWeight.bold,
-                        color: colorScheme.onPrimaryContainer,
+                        color: colorScheme.onSurface,
                       ),
                     ),
                   ),
